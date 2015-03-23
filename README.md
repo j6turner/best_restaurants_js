@@ -10,11 +10,11 @@ and [Bootstrap](http://http://getbootstrap.com/).
 Usage
 -----
 
-To view the site `index.html` file
+To view the site, open the `index.html` file
 in a web browser.
 
 
-Author
+Authors
 -----
 
 Lauren Marcus & J. TURNER
